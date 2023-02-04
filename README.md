@@ -1,6 +1,6 @@
 ![logo](https://github.com/Samawi-lah-idawi/Samawi-lah-idawi/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Oussama ben mazzi</h1>
-<h3 align="center">A passionate frontend developer from Morocoo</h3>
+<h3 align="center">A passionate frontend developer from Morocco</h3>
 
 <p align="left" border-radius: 10px> <img src="https://komarev.com/ghpvc/?username=samawi-lah-idawi&label=Profile%20views&color=0e75b6&style=flat" alt="samawi-lah-idawi" /> </p>
 
