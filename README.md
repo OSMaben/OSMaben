@@ -4,7 +4,6 @@
 
 <p align="left" border-radius: 10px> <img src="https://komarev.com/ghpvc/?username=samawi-lah-idawi&label=Profile%20views&color=0e75b6&style=flat" alt="samawi-lah-idawi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samawi-lah-idawi" alt="samawi-lah-idawi" /></a> </p>
 
 <img align='right' alt='coding' width='400' src="https://i.postimg.cc/Y9Sc7x93/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f35373639.gif">
 
@@ -12,13 +11,9 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 📝 I regularly write articles on [https://uknoow.me](https://uknoow.me)
-
 - 💬 Ask me about **Front-end || Back-end**
 
 - 📫 How to reach me **githubosm@gmail.com**
-
-- 📄 Know about my experiences [https://oussamaben.me](https://oussamaben.me)
 
 - ⚡ Fun fact **The yo-yo was originally a weapon used in the Philippine jungle**
 
