@@ -7,13 +7,13 @@
 
 <img align='right' alt='coding' width='400' src="https://i.postimg.cc/Y9Sc7x93/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f35373639.gif">
 
-- 🔭 I’m currently studying at [ALX africa](https://www.alxafrica.com/)
+- 🔭 I’m currently studying at [Youcode](https://www.youcode.ma/)
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Devops**
 
 - 💬 Ask me about **Front-end || Back-end**
 
-- 📫 How to reach me **githubosm@gmail.com**
+- 📫 How to reach me **ossamabenmazzi@gmail.com**
 
 - ⚡ Fun fact **The yo-yo was originally a weapon used in the Philippine jungle**
 
